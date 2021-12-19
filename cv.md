@@ -19,7 +19,7 @@
   return a * b
 } </p>
 <h2>English</h2>
-<p><strong>A2</strong></p>
+<p>A2</p>
 
 
 
